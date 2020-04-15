@@ -14,7 +14,7 @@ connect to real AWS assets.
     compile group: 'com.amazonaws', name: 'aws-java-sdk-sts', version: '1.11.762'
     compile group: 'com.amazonaws', name: 'aws-java-sdk-s3', version: '1.11.762'
 
-2 Use  [AwsAssumeRoleExample](https://github.com/roman4ello/aws-assume-role-example/blob/master/src/main/java/com/boyar/aws/assumerole.example/AwsAssumeRoleExample.java)
+2 Use  [AwsAssumeRoleExample](https://github.com/roman4ello/aws-assume-role-example/blob/master/src/main/java/com/boyar/aws/assumerole/example/AwsAssumeRoleExample.java)
  class to see example of code to write. Feel free to copy-paste.
  
  It contains two important methods:
