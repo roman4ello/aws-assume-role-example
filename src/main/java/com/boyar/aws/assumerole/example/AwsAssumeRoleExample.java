@@ -1,4 +1,4 @@
-package com.boyar_roman.aws.assume_role_example;
+package com.boyar.aws.assumerole.example;
 
 import com.amazonaws.auth.AWSCredentialsProvider;
 import com.amazonaws.auth.profile.internal.AllProfiles;
